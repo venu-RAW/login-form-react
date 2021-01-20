@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The Front-End of this project is deployed on the Vercel and the Back-End of this project is deployed on the Heroku
+
+  - Front-End : https://login-form-react.vercel.app/
+  - Back_end : https://login-react-backend.herokuapp.com/
+  
+ ## The Backend of this app is build by using MongoDb and for testing the routes I have used Postman.
+
 ## Available Scripts
 
 In the project directory, you can run:
